@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">ExpensesTracker</string>
+    <string name="app_name">WiseWallet</string>
 
     <string name="add_fragment_title">Add Item</string>
     <string name="edit_fragment_title">Edit Item</string>

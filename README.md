@@ -1,22 +1,8 @@
-# ExpensesTracker
+# WiseWallet
 
-Expenses tracker is a simple Android app for tracking your budget. 
+WiseWallet is a simple Android app for tracking your budget. 
 
-The user can add new expenses / incomes and can keep track of his budget
-
-
-# 🧐Want to try it?
-
-You can download the demo from [here (soon)](https://github.com/aptemkov/ExpensesTracker/blob/master/screenshots/).
-
-
-# 📸Screenshots
-
-<img src="https://github.com/aptemkov/ExpensesTracker/blob/master/screenshots/expenses_screen_main.png" width="200"> | 
-<img src="https://github.com/aptemkov/ExpensesTracker/blob/master/screenshots/expenses_screen_adding.png" width="200"> | 
-<img src="https://github.com/aptemkov/ExpensesTracker/blob/master/screenshots/expenses_screen_list.png" width="200"> | 
-<img src="https://github.com/aptemkov/ExpensesTracker/blob/master/screenshots/expenses_screen_chart.png" width="200"> | 
-
+The user can add new expenses / incomes and can keep track of their budget
 
 # 🧑🏾‍💻Tech used
 
@@ -27,8 +13,5 @@ You can download the demo from [here (soon)](https://github.com/aptemkov/Expense
 * Live Data
 * [MPChart](https://github.com/PhilJay/MPAndroidChart) for charts.
 
-# 🔗Do you Want more?
 
-Feel free to connect or to follow me here 👇🏾
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com//in/aptemkov/)
+Developed by TEAM DEVIANTS.

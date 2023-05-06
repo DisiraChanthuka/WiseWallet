@@ -6,11 +6,11 @@ plugins {
 }
 
 android {
-    namespace 'com.github.aptemkov.expensestracker'
+    namespace 'com.github.deviants.wisewallet'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.github.aptemkov.expensestracker"
+        applicationId "com.github.deviants.wisewallet"
         minSdk 26
         targetSdk 33
         versionCode 1
